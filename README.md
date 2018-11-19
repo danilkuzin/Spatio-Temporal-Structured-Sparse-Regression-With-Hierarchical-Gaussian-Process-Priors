@@ -1,6 +1,6 @@
 # Spatio-Temporal-Structured-Sparse-Regression-With-Hierarchical-Gaussian-Process-Priors
 
-The code to reproduce results from the paper "Spatio-Temporal Structured Sparse Regression With Hierarchical Gaussian Process Priors" (offline and online EP inference for the proposed model for the synthetic and EEG data).
+The code to reproduce results from the paper ["Spatio-Temporal Structured Sparse Regression With Hierarchical Gaussian Process Priors"](https://arxiv.org/abs/1807.05561) by Danil Kuzin, Olga Isupova, and Lyudmila Mihaylova in IEEE Transactions on Signal Processing (2018) (offline and online EP inference for the proposed model for the synthetic and EEG data).
 
 The main algorithms for offline and online EP inference are implemented in src folder.
 
