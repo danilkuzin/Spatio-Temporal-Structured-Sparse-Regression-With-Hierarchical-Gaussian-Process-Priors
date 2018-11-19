@@ -1,0 +1,16 @@
+
+*.DS_Store
+collect_results/eeg/dipole_time_moment_1.eps
+collect_results/eeg/dipole_time_moment_170.eps
+collect_results/eeg/eeg_source_results_event_4_and_eeg_input.mp4
+collect_results/eeg/measured_eeg.eps
+collect_results/eeg/nmse_eeg.eps
+collect_results/eeg/restored_eeg.eps
+*.m~
+collect_results/synthetic/f_measure_synthetic.eps
+collect_results/synthetic/nmse_synthetic.eps
+collect_results/synthetic/synthetic_results_all.mat
+collect_results/synthetic/time_synthetic.eps
+data/*
+experiments/diary
+results/*

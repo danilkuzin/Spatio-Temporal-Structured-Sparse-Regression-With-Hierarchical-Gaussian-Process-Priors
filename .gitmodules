@@ -1,0 +1,3 @@
+[submodule "data_generation/eeg/EEGLAB"]
+	path = data_generation/eeg/EEGLAB
+	url = https://adelorme@bitbucket.org/sccn_eeglab/eeglab.git
